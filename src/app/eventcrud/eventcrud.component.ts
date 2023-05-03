@@ -12,6 +12,7 @@ import { FormBuilder, FormGroup } from '@angular/forms'
   templateUrl: './eventcrud.component.html',
   styleUrls: ['./eventcrud.component.css']
 })
+ //test 
 
 export class EventcrudComponent implements OnInit {
 
